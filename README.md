@@ -68,6 +68,7 @@
     <a href="https://jupyter.org"><img alt="jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white"></a>
     <a href="https://developer.apple.com/xcode"><img alt="xcode" src="https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white"></a>
     <a href="https://developer.android.com/studio"><img alt="android-studio" src="https://img.shields.io/badge/Android Studio-3DDC84?logo=android-studio&logoColor=white"></a>
+    <a href="https://maven.apache.org"><img alt="apache-maven" src="https://img.shields.io/badge/Maven-C71A36?logo=apache-maven&logoColor=white"></a>
     <a href="https://wordpress.com"><img alt="wordpress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white"></a>
     <a href="https://www.jetbrains.com"><img alt="jetbrains" src="https://img.shields.io/badge/Jetbrains IDEs-000000?logo=jetbrains&logoColor=white"></a>
     <a href="https://code.visualstudio.com"><img alt="visual-studio-code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual-studio-code&logoColor=white"></a>
