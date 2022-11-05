@@ -90,7 +90,7 @@
 
 <div align="center">
     <h3>📫 Bana Ulaşın</h3>
-    <a href="https://goo.gl/maps/6J3AioiFBnKGP4e1A"><img alt="nerdeyim" src="https://img.shields.io/badge/Zürich, İsviçre-c21833?style=for-the-badge&logo=pinboard&logoColor=white"></a>
+    <a href="https://goo.gl/maps/6J3AioiFBnKGP4e1A"><img alt="nerdeyim" src="https://img.shields.io/badge/İstanbul, Türkiye-c21833?style=for-the-badge&logo=pinboard&logoColor=white"></a>
     <a href="https://www.buymeacoffee.com/haliluluoglu"><img alt="sanşlıgün" src="https://img.shields.io/badge/Nezaket :)-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white"></a>
     <br>
     <a href="https://www.linkedin.com/in/halil-ibrahim-uluoglu"><img alt="linkedin" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
