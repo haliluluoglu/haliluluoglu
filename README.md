@@ -9,8 +9,7 @@
 <div align="left">
 <h3>I'm currently learning...</h3>
     <a href="https://threejs.org"><img alt="three.js" src="https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white"></a>
-    <a href="https://docs.soliditylang.org"><img alt="solidty" src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white"></a>
-    <a href="https://developer.apple.com/swift"><img alt="swift" src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white"></a>
+    <a href="https://react.dev/"><img alt="react" src="https://img.shields.io/badge/React-000000?logo=react&logoColor=white"></a>
     <a href="https://kafka.apache.org"><img alt="kafka" src="https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white"></a>
     <a href="https://nodejs.org"><img alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"></a>
 <h3>Programming & Markup Languages</h3>
@@ -51,6 +50,7 @@
     <a href="https://www.microsoft.com/en-us/sql-server"><img alt="microsoft-sql-server" src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoft-SQL-Server&logoColor=white"></a>
     <a href="https://firebase.google.com"><img alt="firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white"></a>
     <a href="https://www.oracle.com/database"><img alt="oracle" src="https://img.shields.io/badge/Oracle-3880FF?logo=oracle&logoColor=white"></a>
+    <a href="https://www.couchbase.com/"><img alt="couchbase" src="https://img.shields.io/badge/Couchbase-4169E1?logo=couchbase&logoColor=white"></a>
 <h3>Operating Systems</h3>
     <a href="https://developer.apple.com"><img alt="macos" src="https://img.shields.io/badge/MacOS-000000?logo=macos&logoColor=white"></a>
     <a href="https://developer.microsoft.com"><img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
@@ -63,6 +63,7 @@
     <a href="https://git-scm.com"><img alt="git" src="https://img.shields.io/badge/Git-F05032?logo=wordpress&logoColor=white"></a>
     <a href="https://github.com"><img alt="github" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white"></a>
     <a href="https://about.gitlab.com"><img alt="gitlab" src="https://img.shields.io/badge/Gitlab-FC6D26?logo=gitlab&logoColor=white"></a>
+    <a href="https://www.jenkins.io/"><img alt="jenkins" src="https://img.shields.io/badge/Jenkins-D03B01?logo=jenkins&logoColor=white"></a>
     <a href="https://tomcat.apache.org"><img alt="tomcat" src="https://img.shields.io/badge/Tomcat-F8DC75?logo=apache-tomcat&logoColor=white"></a>
     <a href="https://www.postman.com"><img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="https://jupyter.org"><img alt="jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white"></a>
@@ -81,11 +82,12 @@
     <a href="https://www.adobe.com/products/photoshop.html"><img alt="photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white"></a>
     <a href="https://www.adobe.com/products/premiere.html"><img alt="premiere-pro" src="https://img.shields.io/badge/Premiere Pro-9999FF?logo=adobe-photoshop&logoColor=white"></a>
     <a href="https://www.office.com"><img alt="office-tools" src="https://img.shields.io/badge/MS Office & iWork & Google Workspace-D83B01?logo=microsoft-office&logoColor=white"></a>
+    <a href="https://www.atlassian.com/"><img alt="atlassian-tools" src="https://img.shields.io/badge/Atlassian Tools-007ACC?logo=atlassian&logoColor=white"></a>
 <h3>Languages</h3>
     <img alt="english" src="https://custom-icon-badges.demolab.com/badge/English-Fluent-f56224?logo=english&color=c21833&labelColor=172568">
     <img alt="turkish" src="https://custom-icon-badges.demolab.com/badge/Turkish-Native-f56224?logo=turkish&color=dd1421&labelColor=white">
     <img alt="german" src="https://custom-icon-badges.demolab.com/badge/German-Intermediate-f56224?logo=german&color=000000&labelColor=f5ce32">
-    <img alt="finnish" src="https://custom-icon-badges.demolab.com/badge/Finnish-Beginner-f56224?logo=finnish&color=white&labelColor=224172">
+    <img alt="swedish" src="https://custom-icon-badges.demolab.com/badge/Swedish-Beginner-f56224?logo=swedish&color=FFCD00&labelColor=006AA7">
 </div>
 
 <div align="center">
