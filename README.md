@@ -1,16 +1,15 @@
 <div align="center">
     <a href="README.md"><img alt="english" src="https://custom-icon-badges.demolab.com/badge/English-f56224?logo=english&color=c21833&labelColor=172568"></a>
     <a href="README_TR.md"><img alt="turkish" src="https://custom-icon-badges.demolab.com/badge/Turkish-f56224?logo=turkish&color=dd1421&labelColor=white"></a>
-    <a href="README_DE.md"><img alt="german" src="https://custom-icon-badges.demolab.com/badge/German-f56224?logo=german&color=000000&labelColor=f5ce32"></a>
     <br>
     <img alt="banner-english" src="https://raw.githubusercontent.com/haliluluoglu/haliluluoglu/master/assets/banner-english.png">
 </div>
 
 <div align="left">
 <h3>I'm currently learning...</h3>
-    <a href="https://threejs.org"><img alt="three.js" src="https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white"></a>
-    <a href="https://react.dev/"><img alt="react" src="https://img.shields.io/badge/React-000000?logo=react&logoColor=white"></a>
-    <a href="https://kafka.apache.org"><img alt="kafka" src="https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white"></a>
+    <a href=""><img alt="aiAgents" src="https://img.shields.io/badge/AI Agents-412991?logo=openai&logoColor=white"></a>
+    <a href="https://aws.amazon.com"><img alt="aws" src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white"></a>
+    <a href="https://angular.io"><img alt="angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white"></a>
     <a href="https://nodejs.org"><img alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"></a>
 <h3>Programming & Markup Languages</h3>
     <a href="https://www.cprogramming.com"><img alt="c" src="https://custom-icon-badges.demolab.com/badge/C-bd0843?logo=c-in-hexagon&logoColor=white"></a>
@@ -28,9 +27,10 @@
     <a href="https://www.arduino.cc"><img alt="arduino" src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white"></a>
     <a href="https://www.latex-project.org"><img alt="latex" src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white"></a>
 <h3>Frameworks & Libraries</h3>
+    <a href="https://openai.com/api"><img alt="openai" src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white"></a>
     <a href="https://www.docker.com"><img alt="docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"></a>
     <a href="https://spring.io"><img alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white"></a>
-    <a href="https://angular.io"><img alt="angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white"></a>
+    <a href="https://react.dev/"><img alt="react" src="https://img.shields.io/badge/React-000000?logo=react&logoColor=white"></a>
     <a href="https://junit.org"><img alt="junit5" src="https://img.shields.io/badge/Junit5-25A162?logo=junit5&logoColor=white"></a>
     <a href="https://www.json.org"><img alt="json" src="https://img.shields.io/badge/Json-000000?logo=json&logoColor=white"></a>
     <a href="https://www.tensorflow.org"><img alt="tensorflow" src="https://img.shields.io/badge/Tensorflow-FF6F00?logo=tensorflow&logoColor=white"></a>
@@ -44,13 +44,13 @@
     <a href="https://openjfx.io"><img alt="javafx" src="https://custom-icon-badges.demolab.com/badge/JavaFX-579fcc?logo=javafx&logoColor=white"></a>
     <a href="https://www.selenium.dev"><img alt="selenium" src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white"></a>
 <h3>Databases & Clouds</h3>
+    <a href="https://www.oracle.com/database"><img alt="oracle" src="https://img.shields.io/badge/Oracle-3880FF?logo=oracle&logoColor=white"></a>
     <a href="https://aws.amazon.com"><img alt="aws" src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white"></a>
     <a href="https://www.postgresql.org"><img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"></a>
     <a href="https://www.mysql.com"><img alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"></a>
     <a href="https://www.microsoft.com/en-us/sql-server"><img alt="microsoft-sql-server" src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoft-SQL-Server&logoColor=white"></a>
-    <a href="https://firebase.google.com"><img alt="firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white"></a>
-    <a href="https://www.oracle.com/database"><img alt="oracle" src="https://img.shields.io/badge/Oracle-3880FF?logo=oracle&logoColor=white"></a>
     <a href="https://www.couchbase.com/"><img alt="couchbase" src="https://img.shields.io/badge/Couchbase-4169E1?logo=couchbase&logoColor=white"></a>
+    <a href="https://firebase.google.com"><img alt="firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white"></a>
 <h3>Operating Systems</h3>
     <a href="https://developer.apple.com"><img alt="macos" src="https://img.shields.io/badge/MacOS-000000?logo=macos&logoColor=white"></a>
     <a href="https://developer.microsoft.com"><img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
@@ -86,7 +86,6 @@
 <h3>Languages</h3>
     <img alt="english" src="https://custom-icon-badges.demolab.com/badge/English-Fluent-f56224?logo=english&color=c21833&labelColor=172568">
     <img alt="turkish" src="https://custom-icon-badges.demolab.com/badge/Turkish-Native-f56224?logo=turkish&color=dd1421&labelColor=white">
-    <img alt="german" src="https://custom-icon-badges.demolab.com/badge/German-Intermediate-f56224?logo=german&color=000000&labelColor=f5ce32">
     <img alt="swedish" src="https://custom-icon-badges.demolab.com/badge/Swedish-Beginner-f56224?logo=swedish&color=FFCD00&labelColor=006AA7">
 </div>
 
@@ -95,7 +94,7 @@
     <a href="https://goo.gl/maps/P8Zzcjt6oxB2CSnWA"><img alt="whereami" src="https://img.shields.io/badge/Stockholm, Sweden-c21833?style=for-the-badge&logo=pinboard&logoColor=white"></a>
     <a href="https://www.buymeacoffee.com/haliluluoglu"><img alt="luckyday" src="https://img.shields.io/badge/Random Kindness :)-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white"></a>
     <br>
-    <a href="https://www.linkedin.com/in/halil-ibrahim-uluoglu"><img alt="linkedin" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/halil-uluoglu"><img alt="linkedin" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto:haliluluoglu@gmail.com?bcc=mail@haliluluoglu.com&subject=From Github:"><img alt="mail" src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://www.shutterstock.com/g/Halil+Uluoglu"><img alt="shutterstock" src="https://img.shields.io/badge/Shutterstock-EE2B24?style=for-the-badge&logo=shutterstock&logoColor=white"></a>
     <a href="https://www.haliluluoglu.com"><img alt="website" src="https://custom-icon-badges.demolab.com/badge/Website-4285F4?style=for-the-badge&logo=website&logoColor=white"></a>
